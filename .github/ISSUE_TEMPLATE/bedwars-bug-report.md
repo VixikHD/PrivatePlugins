@@ -2,7 +2,7 @@
 name: BedWars Bug Report
 about: Create a BedWars bug report
 title: ''
-labels: bug
+labels: BedWars Bug
 assignees: VixikHD
 
 ---
